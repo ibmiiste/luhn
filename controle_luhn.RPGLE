@@ -7,7 +7,7 @@
      dCalcul           PR             6  0
      d a_Nombre_Luhn              32768A   OPTIONS(*VARSIZE) CONST
 
-     d a_longueur                     5i 0
+     d a_longueur               e      5i 0
 
      D*--------------------------------------------------
      D* Procedure name: parite
